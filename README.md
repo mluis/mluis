@@ -30,7 +30,7 @@ Engineer with 15+ years building at the intersection of systems, security, and i
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-**Virtualization & Kernel**  
+**Virtualization**  
 ![KVM](https://img.shields.io/badge/KVM-4CAF50?style=flat-square)
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white)
 ![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black)
