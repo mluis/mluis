@@ -10,8 +10,6 @@
 
 Engineer with 15+ years building at the intersection of systems, security, and infrastructure. Linux kernel and QEMU contributor who self-pace researches microarchitectural vulnerabilities and builds virtualization environments. Currently applying that low-level systems depth to AI infrastructure and tooling.
 
-## What I Work On
-
 | Security Research | AI & Systems | Virtualization |
 |---|---|---|
 | Microarchitectural attacks, hardware security, CTF | AI infrastructure and tooling | QEMU, KVM, Linux kernel, embedded systems emulation |
