@@ -43,6 +43,10 @@ Engineer with 15+ years building at the intersection of systems, security, and i
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluis&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
+## Writing
+
+[mluis.tumblr.com](https://mluis.tumblr.com/) — notes on systems, Linux, and other stuff.
+
 ---
 
 Co-founder of [UA Cybersecurity Group](https://github.com/uac-ctf/) · [GLUA](https://glua.ua.pt/) member since 2005 · Partner at [Hack'Aveiro](https://github.com/hackaveiro)
