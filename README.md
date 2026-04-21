@@ -47,6 +47,6 @@ Engineer with 15+ years building at the intersection of systems, security, and i
 
 ---
 
-Partner at [Hack'Aveiro](https://github.com/hackaveiro) · Co-founder of [UA Cybersecurity Group](https://github.com/uac-ctf/) · [GLUA](https://glua.ua.pt/) member since 2005
+Co-founder of [UA Cybersecurity Group](https://github.com/uac-ctf/) · [GLUA](https://glua.ua.pt/) member since 2005 · Partner at [Hack'Aveiro](https://github.com/hackaveiro)
 
 [Save the Tristate](https://ctftime.org/writeup/40259) — BB84 Quantum Key Distribution exploit · CSAW CTF Finals 2021
