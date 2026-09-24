@@ -36,13 +36,6 @@ Engineer with 15+ years building at the intersection of systems, security, and i
 ![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AArch64](https://img.shields.io/badge/AArch64-0091BD?style=flat-square)
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mluis&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluis&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
 ## Writing
 
 [mluis.tumblr.com](https://mluis.tumblr.com/) — notes on systems, Linux, and other stuff.
