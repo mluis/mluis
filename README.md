@@ -1,6 +1,6 @@
 # Miguel Luís
 
-**Cybersecurity enthusiast · AI practitioner · Virtualization engineer**
+**Cybersecurity enthusiast · AI practitioner · Systems engineer**
 
 ![Location: Azores, Portugal](https://img.shields.io/badge/%F0%9F%93%8D-Azores%2C_Portugal-blue?style=flat-square)
 ![Cisco CCNA Certified](https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
